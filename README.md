@@ -1,93 +1,179 @@
-# 🚀 Poojah Yogarasa Portfolio
+# 🌐 Poojah Yogarasa Portfolio
 
-A modern portfolio website showcasing my journey as a Computer Engineering Undergraduate, AI enthusiast, and Software Developer.
+<div align="center">
 
-## 🌐 Live Website
+### Computer Engineering Undergraduate | AI Enthusiast | Software Developer
 
-Portfolio: https://your-vercel-url.vercel.app
+🔗 **Live Portfolio:** https://poojah.vercel.app
 
-## 👩‍💻 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge)](https://poojah.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/poojah-yogarasa/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/poojahyogarasa)
 
-I am a Final Year Computer Engineering Undergraduate at the University of Jaffna and BIT Undergraduate at the University of Moratuwa.
-
-My interests include:
-
-* Artificial Intelligence
-* Machine Learning
-* Computer Vision
-* Software Engineering
-* Data Engineering
-
-I enjoy building intelligent systems that solve real-world problems through research and practical software development.
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 👋 About Me
 
-* Next.js
-* TypeScript
-* Tailwind CSS
-* Framer Motion
-* Shadcn UI
-* React
-* Vercel
+I'm **Poojah Yogarasa**, a Final-Year Computer Engineering Undergraduate at the **University of Jaffna** passionate about building intelligent systems, modern software solutions, and impactful AI-driven applications.
 
----
+### Areas of Interest
 
-## 📌 Featured Projects
-
-### AI Career Copilot
-
-AI-powered career assistant that analyzes resumes, matches jobs, identifies skill gaps, and prepares users for interviews.
-
-### AI CCTV Surveillance Dashboard
-
-Computer Vision application for weapon detection using CCTV images with threat monitoring and alert management.
-
-### Department Calendar Management System
-
-Role-based academic scheduling platform developed for the Department of Computer Engineering.
-
-### Clinic Appointment Management System
-
-Desktop application for appointment scheduling, patient management, and doctor administration.
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 💻 Software Engineering
+- 📊 Data Engineering
+- 🧠 Machine Learning
+- 🚀 Emerging Technologies
 
 ---
 
-## 📸 Portfolio Sections
+## ✨ Portfolio Highlights
 
-* Hero
-* About Me
-* Skills & Technologies
-* Projects
-* Certifications
-* Contact
-
----
-
-## 📬 Connect With Me
-
-GitHub: https://github.com/poojahyogarasa
-
-LinkedIn: https://www.linkedin.com/in/poojah-yogarasa/
-
-Email: [your-email@example.com](mailto:your-email@example.com)
+- Modern Responsive Design
+- Interactive Animations
+- Professional Dark UI
+- Project Showcase
+- Skills & Technology Stack
+- Experience Timeline
+- Certifications Section
+- Contact & Social Links
+- Mobile-Friendly Experience
 
 ---
 
-## ⚙️ Run Locally
+## 🛠️ Tech Stack
 
-```bash
-git clone https://github.com/poojahyogarasa/poojah-portfolio.git
+### Frontend
 
-cd poojah-portfolio
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-npm install
+### UI & Design
 
-npm run dev
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge)
+![Lucide Icons](https://img.shields.io/badge/Lucide-Icons-EF4444?style=for-the-badge)
+
+### Deployment
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Career Copilot
+
+An AI-powered career development platform designed to help students and job seekers improve their employability.
+
+**Features**
+
+- Resume Analysis
+- ATS Score Evaluation
+- Job Matching
+- Skill Gap Analysis
+- AI Interview Preparation
+- Career Readiness Assessment
+
+---
+
+### 🔍 Weapons Detection Using CCTV Images
+
+Final-Year Research Project focused on real-time weapon detection using Computer Vision and Deep Learning techniques.
+
+**Technologies**
+
+- YOLOv8
+- Python
+- OpenCV
+- Computer Vision
+- Deep Learning
+
+---
+
+### 🏥 Clinic Appointment Management System
+
+Desktop application developed using modern software engineering principles.
+
+**Technologies**
+
+- C#
+- .NET 8
+- WPF
+- MVVM Architecture
+- SQLite
+
+---
+
+## 📸 Portfolio Preview
+
+> Add your portfolio screenshot here
+
+```md
+![Portfolio Preview](./public/portfolio-preview.png)
 ```
 
 ---
 
-Built with ❤️ using Next.js and TypeScript.
+## ⚙️ Getting Started
 
+### Clone Repository
+
+```bash
+git clone https://github.com/poojahyogarasa/poojah-portfolio.git
+```
+
+### Navigate to Project
+
+```bash
+cd poojah-portfolio
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run Development Server
+
+```bash
+npm run dev
+```
+
+Open:
+
+```text
+http://localhost:3000
+```
+
+---
+
+## 🌍 Live Demo
+
+🔗 **https://poojah.vercel.app**
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: https://poojah.vercel.app
+- LinkedIn: https://www.linkedin.com/in/poojah-yogarasa/
+- GitHub: https://github.com/poojahyogarasa
+
+---
+
+## 💡 Personal Motto
+
+> Transforming ideas into intelligent solutions through engineering, innovation, and continuous learning.
+
+---
+
+<div align="center">
+
+⭐ If you found this portfolio inspiring, consider giving the repository a star!
+
+</div>
