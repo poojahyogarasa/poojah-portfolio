@@ -1,0 +1,52 @@
+[
+{
+"id": "project-1",
+"title": "AI Career Copilot",
+"description": "AI-powered career guidance platform featuring resume analysis, ATS scoring, job matching, skill gap analysis, and interview preparation.",
+"longDescription": "Developed an AI-powered career guidance platform featuring Resume Analysis, ATS Scoring, Job Matching, Skill Gap Analysis, and Interview Preparation modules. Integrated Large Language Models (LLMs) to generate personalized career recommendations, interview evaluations, and learning roadmaps. Designed responsive dashboards and modern user interfaces using Tailwind CSS and Framer Motion.",
+"tags": ["Next.js", "TypeScript", "Tailwind CSS", "Groq AI", "Gemini AI"],
+"imageUrl": "/projects/ai-career-copilot.png",
+"githubUrl": "https://github.com/poojahyogarasa/ai-career-copilot",
+"featured": true
+},
+{
+"id": "project-2",
+"title": "AI CCTV Surveillance Dashboard",
+"description": "Research-based AI surveillance system for real-time weapon detection using CCTV images.",
+"longDescription": "Conducted undergraduate research on real-time weapon detection using CCTV images and deep learning techniques. Developed binary and multi-class object detection models for firearm, knife, and axe detection using YOLOv8. Built an AI surveillance dashboard for threat monitoring, alert generation, and detection history analysis.",
+"tags": ["Python", "YOLOv8", "OpenCV", "Flask", "Computer Vision"],
+"imageUrl": "/projects/ai-cctv-dashboard.png",
+"githubUrl": "https://github.com/poojahyogarasa/ai-cctv-surveillance-dashboard",
+"featured": true
+},
+{
+"id": "project-3",
+"title": "Department Calendar Management System",
+"description": "Role-based academic calendar platform for students, lecturers, technical officers, and administrators.",
+"longDescription": "Developed a role-based academic calendar system for students, lecturers, technical officers, and administrators. Implemented JWT Authentication and Role-Based Access Control (RBAC) for secure access management. Designed RESTful APIs and database structures for event scheduling and calendar management while collaborating within a software engineering team.",
+"tags": ["React", "TypeScript", "Node.js", "Express.js", "MySQL"],
+"imageUrl": "/projects/department-calendar.png",
+"githubUrl": "https://github.com/poojahyogarasa/se-department-calendar-backend",
+"featured": true
+},
+{
+"id": "project-4",
+"title": "Linkzo Live",
+"description": "Real-time video conferencing platform with screen sharing and collaborative communication features.",
+"longDescription": "Developed a real-time video conferencing platform supporting audio and video communication, screen sharing, and room-based collaboration. Implemented peer-to-peer communication using WebRTC and signaling mechanisms using Socket.IO. Designed participant management, messaging, and camera control features.",
+"tags": ["WebRTC", "Socket.IO", "Node.js", "JavaScript", "Networking"],
+"imageUrl": "/projects/linkzo-live.png",
+"githubUrl": "https://github.com/poojahyogarasa/linkzo-live",
+"featured": true
+},
+{
+"id": "project-5",
+"title": "Clinic Appointment Management System",
+"description": "Desktop application for managing appointments, doctor schedules, and clinical records.",
+"longDescription": "Developed a desktop application for managing patient appointments, doctor schedules, and clinical records. Applied MVVM architecture and dependency injection principles to improve maintainability and scalability. Implemented secure authentication and appointment scheduling functionalities with an intuitive user interface.",
+"tags": [".NET 8", "WPF", "SQLite", "MVVM", "C#"],
+"imageUrl": "/projects/clinic-system.png",
+"githubUrl": "https://github.com/poojahyogarasa/ClinicAppointmentSystem",
+"featured": true
+}
+]
