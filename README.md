@@ -110,11 +110,7 @@ Desktop application developed using modern software engineering principles.
 
 ## 📸 Portfolio Preview
 
-> Add your portfolio screenshot here
-
-```md
 ![Portfolio Preview](./public/portfolio-preview.png)
-```
 
 ---
 
