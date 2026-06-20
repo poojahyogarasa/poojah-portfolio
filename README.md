@@ -1,194 +1,93 @@
-# NextGen Portfolio Website
+# 🚀 Poojah Yogarasa Portfolio
 
-A modern, animated portfolio website built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
+A modern portfolio website showcasing my journey as a Computer Engineering Undergraduate, AI enthusiast, and Software Developer.
 
-## **[Live Demo Version](https://nextgenportfolio.vercel.app)** 
+## 🌐 Live Website
 
-## Requirements
+Portfolio: https://your-vercel-url.vercel.app
 
-- **Node.js**: >=18.x
-- **Next.js**: 13.5.x
+## 👩‍💻 About Me
 
-## Features
+I am a Final Year Computer Engineering Undergraduate at the University of Jaffna and BIT Undergraduate at the University of Moratuwa.
 
-- Responsive design that works across all devices
-- Animated particle background with react-tsparticles
-- Smooth page transitions and component animations with framer-motion
-- Dark/light mode toggle with theme persistence
-- Configuration-driven content management
-- Interactive UI components with subtle animations
-- Performance optimized with Next.js
+My interests include:
 
-## Tech Stack
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
+* Software Engineering
+* Data Engineering
 
-- **Framework**: Next.js 13.5 with App Router
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
-- **UI Components**: shadcn/ui
-- **Animations**: Framer Motion
-- **Icons**: Lucide React
-- **Form Validation**: Zod
-- **Particles**: react-tsparticles
+I enjoy building intelligent systems that solve real-world problems through research and practical software development.
 
-## Project Structure
+---
 
-```
-├── app/                  # Next.js app directory
-├── components/           # UI components
-│   ├── sections/         # Page sections
-│   └── ui/               # shadcn/ui components
-├── config/               # Configuration files
-│   ├── personal.json     # Personal information
-│   ├── skills.json       # Skills data
-│   ├── projects.json     # Projects data
-│   ├── experience.json   # Experience data
-│   ├── social.json       # Social links
-│   ├── themes.json       # Theme configurations
-│   └── types.ts          # TypeScript interfaces
-├── lib/                  # Utility functions
-├── hooks/                # Custom React hooks
-└── public/               # Static assets
-```
+## 🛠 Tech Stack
 
-## How to Customize
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* Shadcn UI
+* React
+* Vercel
 
-### Personal Information
+---
 
-Edit the `config/personal.json` file to update your personal details:
+## 📌 Featured Projects
 
-```json
-{
-  "name": "Your Name",
-  "title": "Your Title",
-  "bio": "Your bio...",
-  "email": "your.email@example.com",
-  "location": "Your Location",
-  "resumeUrl": "/path-to-resume.pdf"
-}
-```
+### AI Career Copilot
 
-### Skills
+AI-powered career assistant that analyzes resumes, matches jobs, identifies skill gaps, and prepares users for interviews.
 
-Edit the `config/skills.json` file to update your skills:
+### AI CCTV Surveillance Dashboard
 
-```json
-[
-  {
-    "name": "Skill Name",
-    "level": 90,
-    "category": "frontend"
-  },
-  ...
-]
-```
+Computer Vision application for weapon detection using CCTV images with threat monitoring and alert management.
 
-### Projects
+### Department Calendar Management System
 
-Edit the `config/projects.json` file to update your projects:
+Role-based academic scheduling platform developed for the Department of Computer Engineering.
 
-```json
-[
-  {
-    "id": "project-1",
-    "title": "Project Title",
-    "description": "Short description",
-    "longDescription": "Detailed description",
-    "tags": ["Tag1", "Tag2"],
-    "imageUrl": "/path-to-image.jpg",
-    "liveUrl": "https://example.com",
-    "githubUrl": "https://github.com/yourusername/project",
-    "featured": true
-  },
-  ...
-]
-```
+### Clinic Appointment Management System
 
-### Experience
+Desktop application for appointment scheduling, patient management, and doctor administration.
 
-Edit the `config/experience.json` file to update your work and education experience:
+---
 
-```json
-[
-  {
-    "id": "exp-1",
-    "company": "Company Name",
-    "position": "Your Position",
-    "duration": "2021 - Present",
-    "startDate": "2021-01-01",
-    "description": "Description of role...",
-    "technologies": ["Tech1", "Tech2"],
-    "type": "work"
-  },
-  ...
-]
-```
+## 📸 Portfolio Sections
 
-### Social Links
+* Hero
+* About Me
+* Skills & Technologies
+* Projects
+* Certifications
+* Contact
 
-Edit the `config/social.json` file to update your social links:
+---
 
-```json
-[
-  {
-    "platform": "GitHub",
-    "url": "https://github.com/yourusername",
-    "icon": "Github"
-  },
-  ...
-]
-```
+## 📬 Connect With Me
 
-### Themes
+GitHub: https://github.com/poojahyogarasa
 
-Edit the `config/themes.json` file to customize the theme colors and particle effects:
+LinkedIn: https://www.linkedin.com/in/poojah-yogarasa/
 
-```json
-{
-  "themes": [
-    {
-      "name": "light",
-      "colors": {
-        "primary": "hsl(204, 100%, 40%)",
-        ...
-      },
-      "particleConfig": {
-        "enabled": true,
-        "particleCount": 35,
-        ...
-      }
-    },
-    ...
-  ]
-}
-```
+Email: [your-email@example.com](mailto:your-email@example.com)
 
-## Getting Started
+---
 
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Run the development server: `npm run dev`
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-## Building for Production
-
-To build the project for production, run:
+## ⚙️ Run Locally
 
 ```bash
-npm run build
+git clone https://github.com/poojahyogarasa/poojah-portfolio.git
+
+cd poojah-portfolio
+
+npm install
+
+npm run dev
 ```
 
-This will generate static files in the `out` directory, which can be deployed to any static hosting provider.
+---
 
-## Deployment
+Built with ❤️ using Next.js and TypeScript.
 
-This project is configured for static export, making it compatible with various hosting platforms like Vercel, Netlify, GitHub Pages, etc.
-
-## Accessibility
-
-The portfolio is designed with accessibility in mind, following WCAG 2.1 AA standards. Key features include:
-
-- Semantic HTML
-- Keyboard navigation
-- ARIA attributes
-- Sufficient color contrast
-- Reduced motion support
